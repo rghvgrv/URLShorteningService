@@ -1,6 +1,6 @@
 # URL Shortening Service
 
-A simple URL shortening service built with C# and .NET, allowing users to convert long URLs into shorter, more manageable links.
+A simple URL shortening service built with C# and .NET, allowing users to convert long URLs into shorter using custom logic, more manageable links. 
 
 ## Features
 
